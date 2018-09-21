@@ -25,6 +25,6 @@
 
 <p align="center">
 
-<img src="https://i-msdn.sec.s-msft.com/dynimg/IC583491.png" width="30%" height="30%"/>
+<img src="https://github.com/DoisLucas/CRUD-EntityFramework/blob/master/resources/modelo.PNG?raw=true" width="130%" height="130%"/>
 
 </p>
