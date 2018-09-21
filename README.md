@@ -18,3 +18,13 @@
 
 </p>
 
+<br>
+
+**MODELO LÓGICO DO BANCO GERADO AUTOMATICAMENTE PELO EF:**
+
+
+<p align="center">
+
+<img src="https://i-msdn.sec.s-msft.com/dynimg/IC583491.png" width="30%" height="30%"/>
+
+</p>
